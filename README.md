@@ -21,6 +21,7 @@ docker push macbury/android-react-native:android-28
 
 # How to use it
 
+Just pull image
 ```
 docker pull macbury/android-react-native:android-28
 ```
